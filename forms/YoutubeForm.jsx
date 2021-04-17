@@ -81,7 +81,7 @@ export default function YoutubeForm() {
             type="submit"
             className="bg-green-600 py-2 px-6 block mt-4 w-full rounded text-white"
           >
-            SUbmit
+            Submit
           </button>
         </Form>
       </Formik>
